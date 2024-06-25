@@ -36,5 +36,5 @@
 </div>
 <br>
 
-**Live Demo** : 
+**Live Demo** : https://youssef-ashraf-ramadan.github.io/CodeAlpha_Music_Player/
 
